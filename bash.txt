@@ -1,0 +1,500 @@
+    3  gcc Main.c -c
+    4  make -f Makefile.mak
+    5  ./ellfa -f readme.txt
+    6  clear
+    7  gcc Main.c -c
+    8  make -f Makefile.mak
+    9  ./ellfa -f ashish.txt
+   10  gcc Main.c -c
+   11  make -f Makefile.mak
+   12  ./ellfa -f ashish.txt
+   13  gcc Main.c -c
+   14  make -f Makefile.mak
+   15  ./ellfa -f ashish.txt
+   16  gcc Main.c -c
+   17  ./ellfa -f ashish.txt
+   18  make -f Makefile.mak
+   19  ./ellfa -f ashish.txt
+   20  exit
+   21  logout
+   22  cd ellfa
+   23  make clean
+   24  make Makefile.mak clean
+   25  ls
+   26  rm ashish.txt
+   27  rm readme.txt
+   28  l
+   29  ls
+   30  make clean
+   31  make clean
+   32  make 
+   33  make -f Makefile.mak clean
+   34  ls
+   35  rm myCode.exe
+   36  ls
+   37  rm myCode.exe.stackdump
+   38  ls
+   39  cd..
+   40  cd ..
+   41  tar cvjf cse220-s13-p02-Datta-Croke.tar.bz2 ellfa
+   42  ls
+   43  net start sshd
+   44  c ~
+   45  cd ~
+   46  ls
+   47  ls
+   48  cd etc
+   49  cd /cygdrive/c/etc
+   50  cd /cygdrive/etc
+   51  /cygdrive/c/cygwin/etc
+   52  cd /cygdrive/c/cygwin/etc
+   53  cd defaults
+   54  cd etc
+   55  net start sshd
+   56  ssh-host-config
+   57  ssh-host-config
+   58  ssh adatta_adatta@ssh.phx.nearlyfreespeech.net
+   59  ssh adatta_adatta@ssh.phx.nearlyfreespeech.net
+   60  clear
+   61  ssh 208.94.116.3
+   62  ssh adatta_adatta@ssh.phx.nearlyfreespeech.net
+   63  clear
+   64  cal
+   65  time cat
+   66  logout
+   67  exit
+   68  nano test.txt
+   69  nano test.txt
+   70  clear
+   71  cd ..
+   72  cd..
+   73  cd ..
+   74  cd codez
+   75  mkdir Hatter
+   76  git@github.com:LearnProgramming/Hatter.git
+   77  git clone git@github.com:LearnProgramming/Hatter.git
+   78  exit
+   79  ruby
+   80  ruby --help
+   81  ruby -v
+   82  logout
+   83  logout
+   84  cd ellfa
+   85  vim Main.c
+   86  clear
+   87  cd ..
+   88  cd ..
+   89  cd codez
+   90  cd kernel dev
+   91  cd kernel
+   92  cd Kernel Dev
+   93  cd kernel_dev
+   94  cd "kernel_dev"
+   95  cd "kernel dev"
+   96  ls
+   97  tar xjf linux-3.8.1.tar.bz2 
+   98  ls
+   99  rm linux-3.8.1
+  100  rmdir linux-3.8.1
+  101  rm -rf linux-3.8.1
+  102  tar xivf linux-3.8.1.tar.bz2 
+  103  ls
+  104  cd linux-3.8.1/
+  105  ls
+  106  whoami
+  107  svn -v
+  108  svn help
+  109  cd ..
+  110  svn co svn://svn.linuxfromscratch.org/LFS/trunk/BOOK/
+  111  clear
+  112  cd 
+  113  bash -v
+  114  perl -v
+  115  clear
+  116  logout
+  117  bash --help
+  118  naim -v
+  119  naim --help
+  120  nirc uhsheesh clgaming.quakenet.com
+  121  clear
+  122  logout
+  123  exit
+  124  uname -a
+  125  uname
+  126  uname -v
+  127  uname -h
+  128  uname --help
+  129  uname -s
+  130  bash
+  131  exit
+  132  lsof -i
+  133  lsof -i
+  134  1sof -i
+  135  clear
+  136  netstat -a
+  137  nmap
+  138  nmap --help
+  139  clear
+  140  logout
+  141  sys
+  142  system
+  143  systeminfo
+  144  logout
+  145  nmap 127.0.0.1
+  146  logouit
+  147  logout
+  148  rails --version
+  149  ruby --version
+  150  c;ear
+  151  clear
+  152  vim ashish.c
+  153  ~/.vim
+  154  ~/.vim/plugin
+  155  vim ashish.c
+  156  ls
+  157  vim .
+  158  vim .
+  159  tar xjf p03.tar.bz2 
+  160  ls
+  161  ls
+  162  cd cse220-p03/
+  163  ls
+  164  make MakeFile.mak
+  165  gcc -g Arg.c
+  166  gcc  Arg.c
+  167  cls
+  168  clear
+  169  gcc -help
+  170  gcc --help
+  171  gcc Arg.c -c
+  172  gcc *.c -c
+  173  gcc *.c -c
+  174  gcc *.c -c -std=c99
+  175  ls
+  176  clear
+  177  make MakeFile.mak
+  178  ls
+  179  make Makefile
+  180  clear
+  181  gcc Main.c
+  182  gcc *.c -o test
+  183  gcc *.c -o test -std=c99
+  184  clear
+  185  ls
+  186  test.exe
+  187  ./test.exe
+  188  touch ashish.txt
+  189  ./test.exe ashish.txt
+  190  ./test.exe -hashish.txt
+  191  ./test.exe -h ashish.txt
+  192  cd ..
+  193  cd..
+  194  cd..
+  195  cd ..
+  196  cd cse360
+  197  ls
+  198  mkdir CSE360
+  199  git init here
+  200  git init
+  201  touch README.md
+  202  cat > README.md
+  203  cat README.md
+  204  clear
+  205  git add README.md
+  206  git commit -m "Updated the README.md file to where it contains our title and names
+  207  "
+  208  git config --globbal user.name "Ashish Datta"
+  209  git config --global user.name "Ashish Datta"
+  210  git config --global user.email "ashishbdatta@gmail.com"
+  211  git commit --amend --reset-author
+  212  git commit -m "Updated README.md"
+  213  ls
+  214  mv README.MD > CSE360
+  215  mv README.md > CSE360
+  216  git push -u master originzz
+  217  git push -u
+  218  git remote add https://github.com/ashishdatta/CSE360.git
+  219  git remote add -m https://github.com/ashishdatta/CSE360.git
+  220  bimpie -h
+  221  cd cse220-p03/
+  222  bimpie -h
+  223  make MakeFile
+  224  bimpie -v
+  225  clear
+  226  clear
+  227  make MakeFile
+  228  ls
+  229  make MakeFile.mak
+  230  ls
+  231  clear
+  232  gcc --help
+  233  gcc -c *.c
+  234  gcc -c *.c -std=c99
+  235  make MakeFile
+  236  ls
+  237  rm *.d
+  238  rm *.o
+  239  ls
+  240  exit
+  241  screen
+  242  cd ../
+  243  cd ../
+  244  cd codez
+  245  cd python
+  246  ls
+  247  cd "RSS reader"
+  248  ls
+  249  clear
+  250  python rssreader.py
+  251  python rssreader.cgi
+  252  ls
+  253  python RssReader.cgi
+  254  clear
+  255  Rssreader.cgi
+  256  ./rssreader.cgi
+  257  clear
+  258  ./RssReader.py "Spiegel"
+  259  ./RssReader.py "Spiegel"
+  260  ./RssReader.py "Spiegel"
+  261  ./RssReader.py "Spiegel"
+  262  ./RssReader.py 
+  263  ./RssReader.py 
+  264  ./RSSReader.py
+  265  cd..
+  266  cd../
+  267  cd ../
+  268  cd ../
+  269  cd ../
+  270  cd skoo
+  271  cd cse220
+  272  ls
+  273  ./rssreader.py
+  274  python rssreader.py
+  275  clear
+  276  python rssreader.py
+  277  python rssreader.py
+  278  python rssreader.py
+  279  ./rssreader.py
+  280  ./rssreader.py
+  281  ./rssreader.py
+  282  python -v
+  283  python -version
+  284  python --version
+  285  ./rssreader.py
+  286  python --version
+  287  ./rssreader.py
+  288  cd ../
+  289  cd ../
+  290  ls
+  291  gunzip beautifulsoup4-4.1.2.tar.gz 
+  292  ls
+  293  tar xjf *.tar
+  294  tar xf *.tar
+  295  ls
+  296  cd beautifulsoup4-4.1.2/
+  297  ls
+  298  ./setup.py
+  299  cd ../
+  300  cd skoo
+  301  cd cs
+  302  cd cse220
+  303  ls
+  304  rssreader.py
+  305  ./RSSReader.py
+  306  ./RSSReader.py
+  307  ./RSSReader.py
+  308  python RSSReader.py 
+  309  cd
+  310  exit
+  311  cd ../
+  312  cd ../
+  313  cd beautifulsoup4-4.1.2/
+  314  python setup.py install
+  315  cd ../
+  316  ls
+  317  ./testcode3.py
+  318  ./testcode3.py
+  319  ./testcode3.py
+  320  gunzip beautifulsoup4-4.1.3
+  321  ls
+  322  gunzip beautifulsoup4-4.1.3.tar.gz
+  323  tar xf beautifulsoup4-4.1.3
+  324  tar xf beautifulsoup4-4.1.3.tar
+  325  ls
+  326  ls
+  327  gunzip pip-1.3.1.tar.gz 
+  328  tar xf pip-1.3.1.tar 
+  329  python getpip.py
+  330  pip help
+  331  pip install beautifulsoup4
+  332  python
+  333  telnet 127.0.0.1 5006
+  334  telnet 127.0.0.1 5006
+  335  telnet 127.0.0.1 23
+  336  telnet 127.0.0.1 5006
+  337  telnet 127.0.0.1 5006
+  338  telnet 127.0.0.1 5006
+  339  telnet 127.0.0.1 5006
+  340  telnet 127.0.0.1 5006
+  341  telnet 127.0.0.1 5006
+  342  telnet 127.0.0.1 5006
+  343  telnet 127.0.0.1 5006
+  344  telnet 127.0.0.1 5006
+  345  telnet 127.0.0.1 5006
+  346  telnet 127.0.0.1 5006
+  347  telnet 127.0.0.1 5006
+  348  telnet 127.0.0.1 5006
+  349  telnet 127.0.0.1 5006
+  350  telnet 127.0.0.1 5006
+  351  telnet 127.0.0.1 5006
+  352  telnet 127.0.0.1 5006
+  353  telnet 127.0.0.1 5006
+  354  telnet 127.0.0.1 5006
+  355  telnet 127.0.0.1 5006
+  356  telnet 127.0.0.1 5006
+  357  telnet 127.0.0.1 5006
+  358  telnet 127.0.0.1 5006
+  359  telnet 127.0.0.1 5006
+  360  telnet 127.0.0.1 5006
+  361  telnet 127.0.0.1 5006
+  362  telnet 127.0.0.1 5006
+  363  telnet 127.0.0.1 5006
+  364  telnet 127.0.0.1 5006
+  365  telnet 127.0.0.1 5006
+  366  telnet 127.0.0.1 5006
+  367  telnet 127.0.0.1 5007
+  368  telnet 127.0.0.1 5007
+  369  telnet 127.0.0.1 5006
+  370  telnet 127.0.0.1 5006
+  371  telnet 127.0.0.1 5006
+  372  telnet 127.0.0.1 5006
+  373  telnet 127.0.0.1 5006
+  374  telnet 127.0.0.1 5006
+  375  telnet 127.0.0.1 5006
+  376  telnet 127.0.0.1 5006
+  377  telnet 127.0.0.1 5006
+  378  clear
+  379  telnet 127.0.0.1 5006
+  380  telnet 127.0.0.1 5006
+  381  telnet 127.0.0.1 5006
+  382  telnet 127.0.0.1 5006
+  383  ps
+  384  telnet 127.0.0.1 5006
+  385  close
+  386  exit
+  387  bzip2 --help
+  388  ls
+  389  tar xjf cse220-p03.tar.bz2 
+  390  ls
+  391  cd cse220-p034
+  392  cd cse220-p03
+  393  gcc -c *.c
+  394  gcc -c *.c -std=c99
+  395  cd cse220-p03/
+  396  make clean
+  397  ls
+  398  clear
+  399  tar xjf cse220-p03.tar.bz2 
+  400  clar
+  401  clear
+  402  cd cse-
+  403  cd cse220-p03/
+  404  ls
+  405  make clean
+  406  ls
+  407  make makefile
+  408  clear
+  409  cls
+  410  ls
+  411  make clean
+  412  clear
+  413  ls
+  414  gcc main_working.c -o bimpie
+  415  gcc main_working.c -o bimpie -std=c99
+  416  make makefile
+  417  ls
+  418  bimpie -h
+  419  make clean
+  420  gcc -c *.c
+  421  gcc -c *.c -std=c99
+  422  clear
+  423  gcc main_working.c -o bimpie -std=c99
+  424  gcc *.c -o bimpie
+  425  gcc *.c -o bimpie -std=c99
+  426  gcc main_working.c Arg.c String.c Error.c Bmp.c -o bimpie -std=c99
+  427  ./bimpie -h
+  428  ./bimpie -v
+  429  ./bimpie --fliph test.bmp
+  430  clear
+  431  cd ..
+  432  tar xjf *.bz2
+  433  ls
+  434  tar xjfv cse220-s13-p03-croke-datta-tar.bz2 
+  435  cd cse220-p03/
+  436  ls
+  437  make Makefil
+  438  make Makefile
+  439  gcc -c *.c
+  440  gcc -c *.c -std=c99
+  441  make Makefile
+  442  make Makefile.mak
+  443  make Makefile
+  444  gcc Main.c -o bimpie 
+  445  gcc Main.c -o bimpie -std=c99
+  446  gcc *.c -o bimpie -std=c99
+  447  ./bimpie --help
+  448  ./bimpie -b
+  449  ./bimpie -v
+  450  ./bimpie -v -h
+  451  make clean
+  452  ls
+  453  make makefil
+  454  gcc *.c
+  455  gcc *.c -std=c99
+  456  make makefile
+  457  make Makefile
+  458  make Makefile.mak
+  459  clear
+  460  exit
+  461  tar xjfv cse220-s13-p03-croke-datta-tar.bz2 
+  462  clear
+  463  cd cse220-p03/
+  464  gcc *.c
+  465  gcc *.c -std=c99
+  466  gcc *.c -o bimpie -std=c99
+  467  ./bimpe test.bmp
+  468  ./bimpe -fliph test.bmp
+  469  ./bimpie -fliph test.bmp
+  470  ./bimpie -h -fliph test.bmp
+  471  ./bimpie -h  test.bmp
+  472  ./bimpie --fliph  test.bmp
+  473  clear
+  474  exit
+  475  cd ~/desktop
+  476  cd 
+  477  tar xjf p03.tar.bz2 
+  478  ls
+  479  tar xjfv cse220-s13-p03-croke-datta-tar.bz2 
+  480  cd..
+  481  cd ..
+  482  cd ..
+  483  tar xjfv p03.tar.bz2 
+  484  diff Main.c Main2.c
+  485  diff Main.c
+  486  diff Main.c Main2.c
+  487  diff Main.c Main(2).c
+  488  diff Main.c yo.c
+  489  cd ..
+  490  cd 310
+  491  gcc -o program Assignment6.cpp BinarySearchTree.h
+  492  tar xjfv cse220-s13-p03-croke-datta.tar.bz2 
+  493  cd cse220-p03
+  494  ls
+  495  make
+  496  ./bimpie --help
+  497  clear
+  498  make clean
+  499  clear
+  500  logout
+  501  history
+  502  history > bash.txt

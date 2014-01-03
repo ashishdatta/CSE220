@@ -1,0 +1,33 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Help	Main.c	/^static void Help()$/;"	f	file:
+PrintFile	Main.c	/^static void PrintFile(char *fileName)$/;"	f	file:
+ScanCmdLine	Main.c	/^static void ScanCmdLine(tArg *pArg)$/;"	f	file:
+Version	Main.c	/^static void Version()$/;"	f	file:
+argc	Main.c	/^	int		argc;       \/* argc from main() *\/$/;"	m	struct:__anon1	file:
+argv	Main.c	/^	char  **argv;       \/* argv from main() *\/$/;"	m	struct:__anon1	file:
+c	Main.c	/^	int		c;          \/* -c tempc  Temperature in Celsius. *\/$/;"	m	struct:__anon1	file:
+copyResults	Main.c	/^void copyResults(char *fileName)$/;"	f
+f	Main.c	/^	int		f;          \/* -f tempf  Temperature in Fahr. *\/$/;"	m	struct:__anon1	file:
+f	Main.c	/^static FILE *f;$/;"	v	file:
+file	Main.c	/^	char *file;$/;"	m	struct:__anon1	file:
+fileLocation	Main.c	/^static char *fileLocation;$/;"	v	file:
+gcAuthor	Main.c	/^static const char *gcAuthor  = "Ashish B. Datta <adatta@asu.edu> and Skye Croke";$/;"	v	file:
+gcBinary	Main.c	/^static const char *gcBinary  = "ellfa";$/;"	v	file:
+gcInvalidArg	Main.c	/^static const int gcInvalidArg  = -1;$/;"	v	file:
+gcInvalidOpt	Main.c	/^static const int gcInvalidOpt  = -2;$/;"	v	file:
+gcMissingArg	Main.c	/^static const int gcMissingArg  = -3;$/;"	v	file:
+gcMissingOpt	Main.c	/^static const int gcMissingOpt  = -4;$/;"	v	file:
+gcUnexpStr	Main.c	/^static const int gcUnexpStr    = -5;$/;"	v	file:
+gcVersion	Main.c	/^static const char *gcVersion = "1.0 (2013.2.22)";$/;"	v	file:
+h	Main.c	/^	int		h;          \/* -h        Display help info and exit. *\/$/;"	m	struct:__anon1	file:
+main	Main.c	/^int main(int pArgc, char *pArgv[])$/;"	f
+numOfLetters	Main.c	/^static int numOfLetters;$/;"	v	file:
+tArg	Main.c	/^} tArg;$/;"	t	typeref:struct:__anon1	file:
+temp	Main.c	/^	double	temp;       \/* The temperature string converted to a double. *\/$/;"	m	struct:__anon1	file:
+temps	Main.c	/^	char    temps[128]; \/* Stores the temperature string found on the command line. *\/$/;"	m	struct:__anon1	file:
+v	Main.c	/^	int		v;          \/* -v        Display version info and exit. *\/$/;"	m	struct:__anon1	file:
